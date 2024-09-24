@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\покемоны\покемоны\bin\Debug\покемоны.exe.config
+C:\Users\Asus\source\repos\покемоны\покемоны\bin\Debug\покемоны.exe
+C:\Users\Asus\source\repos\покемоны\покемоны\bin\Debug\покемоны.pdb
+C:\Users\Asus\source\repos\покемоны\покемоны\obj\Debug\покемоны.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\покемоны\покемоны\obj\Debug\покемоны.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\покемоны\покемоны\obj\Debug\покемоны.exe
+C:\Users\Asus\source\repos\покемоны\покемоны\obj\Debug\покемоны.pdb
